@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.2.8)  19 FEB 2017 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.2.2)  20 FEB 2017 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -612,16 +612,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 1546) in paragraph at lines 37--41
-\OT1/cmr/m/n/12 change (from ac-tive be-haviour to tun
- []
-
-
-Underfull \hbox (badness 3907) in paragraph at lines 37--41
-\OT1/cmr/m/n/12 con-for-ma-tion) of the tardi-grades, we
- []
-
-
 Underfull \hbox (badness 1286) in paragraph at lines 37--41
 \OT1/cmr/m/n/12 tardi-grades we could ob-serve to make
  []
@@ -669,6 +659,16 @@ File: tun.png Graphic file (type png)
  <use tun.png>
 Package pdftex.def Info: tun.png used on input line 50.
 (pdftex.def)             Requested size: 216.0pt x 169.84482pt.
+
+Underfull \hbox (badness 2529) in paragraph at lines 59--61
+\OT1/cmr/m/n/12 on these curves will be dis-cussed in
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 59--61
+\OT1/cmr/m/n/12 ex-per-i-ments with in-creas-ing con-cen-tra-
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
@@ -741,23 +741,14 @@ Package pdftex.def Info: 008t.pdf used on input line 105.
 
 LaTeX Warning: Float too large for page by 34.4689pt on input line 109.
 
-
-Underfull \hbox (badness 2050) in paragraph at lines 100--110
-\OT1/cmr/m/n/12 thing than what can be ob-served at
- []
-
-
-Underfull \hbox (badness 2351) in paragraph at lines 100--110
-\OT1/cmr/m/n/12 pro-por-tion of tun con-for-ma-tion tardi-
- []
-
-[5 <./005.pdf> <./005t.pdf>] <010.pdf, id=49, 361.35pt x 361.35pt>
+[5 <./005.pdf> <./005t.pdf>] [6 <./065.pdf> <./065t.pdf>]
+<010.pdf, id=58, 361.35pt x 361.35pt>
 File: 010.pdf Graphic file (type pdf)
-
-<use 010.pdf>
+ <use 010.pdf>
 Package pdftex.def Info: 010.pdf used on input line 116.
 (pdftex.def)             Requested size: 216.0pt x 216.00114pt.
- <010t.pdf, id=50, 361.35pt x 361.35pt>
+
+<010t.pdf, id=59, 361.35pt x 361.35pt>
 File: 010t.pdf Graphic file (type pdf)
  <use 010t.pdf>
 Package pdftex.def Info: 010t.pdf used on input line 117.
@@ -765,11 +756,6 @@ Package pdftex.def Info: 010t.pdf used on input line 117.
 
 
 LaTeX Warning: Float too large for page by 19.9689pt on input line 121.
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 124--127
-\OT1/cmr/m/n/12 tardi-grades. We can ob-serve that at
- []
 
 
 Underfull \hbox (badness 1242) in paragraph at lines 124--127
@@ -786,8 +772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
  []
 
-[6 <./065.pdf> <./065t.pdf>] [7 <./008.pdf> <./008t.pdf> <./010.pdf> <./010t.pd
-f>] <tcc.pdf, id=76, 361.35pt x 361.35pt>
+<tcc.pdf, id=60, 361.35pt x 361.35pt>
 File: tcc.pdf Graphic file (type pdf)
  <use tcc.pdf>
 Package pdftex.def Info: tcc.pdf used on input line 129.
@@ -808,6 +793,11 @@ Underfull \hbox (badness 1152) in paragraph at lines 137--138
  []
 
 
+Underfull \hbox (badness 1960) in paragraph at lines 137--138
+\OT1/cmr/m/n/12 overview of the pop-u-la-tion be-haviour,
+ []
+
+
 Underfull \hbox (badness 5260) in paragraph at lines 137--138
 \OT1/cmr/m/n/12 swim-ming, and be-gin-ning form-ing a
  []
@@ -817,7 +807,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
-[8 <./tcc.pdf>]
+[7 <./008.pdf> <./008t.pdf>] [8 <./010.pdf> <./010t.pdf> <./tcc.pdf>]
 Underfull \hbox (badness 1688) in paragraph at lines 139--140
 \OT1/cmr/m/n/12 rep-re-sent our re-sults as ra-tios : the
  []
@@ -838,18 +828,8 @@ Underfull \hbox (badness 2073) in paragraph at lines 141--142
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 141--142
-\OT1/cmr/m/n/12 were con-tort-ing them-selves and of-ten
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 141--142
-\OT1/cmr/m/n/12 dy-ing be-fore be-ing able to trans-form.
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 141--142
-\OT1/cmr/m/n/12 or-der to have an idea of the av-er-age
+Underfull \hbox (badness 1264) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 and mea-sured them us-ing the Im-ageJ
  []
 
 
@@ -863,28 +843,13 @@ File: pop.png Graphic file (type png)
 Package pdftex.def Info: pop.png used on input line 144.
 (pdftex.def)             Requested size: 216.0pt x 162.00291pt.
 
-Underfull \hbox (badness 1253) in paragraph at lines 151--152
-\OT1/cmr/m/n/12 that we only had two weeks time to
+Underfull \hbox (badness 1112) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 count the fact that we only had two
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 151--152
-\OT1/cmr/m/n/12 more time, we would have wished to
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 151--152
-\OT1/cmr/m/n/12 run these ex-per-i-ments for more other
- []
-
-
-Underfull \hbox (badness 2744) in paragraph at lines 151--152
-\OT1/cmr/m/n/12 any mea-sure-ments be-tween 0.0M and
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 151--152
-\OT1/cmr/m/n/12 0.05M. The con-cen-tra-tions in be-tween
+Underfull \hbox (badness 1043) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 con-cen-tra-tions in be-tween are the one
  []
 
 
@@ -892,7 +857,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
-[9 <./pop.png (PNG copy)>]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 []\OT1/cmr/m/n/12 Automatizing the whole count-ing
  []
@@ -912,7 +877,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
-[10]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./pop.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
@@ -927,29 +895,25 @@ Underfull \hbox (badness 2073) in paragraph at lines 173--173
 []\OT1/cmr/bx/n/12 Figure 9: \OT1/cmr/m/n/12 The home-made mul-ti-well
  []
 
-[11 <./plates.png>] (./report.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[11 <./plates.png>] (./report.aux) ) 
 Here is how much of TeX's memory you used:
  3554 strings out of 493013
  44802 string characters out of 6135683
- 219830 words of memory out of 5000000
+ 220832 words of memory out of 5000000
  7017 multiletter control sequences out of 15000+600000
  13045 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,7n,25p,1476b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmti12.pfb>
-Output written on report.pdf (11 pages, 726466 bytes).
+ 40i,7n,25p,1481b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (11 pages, 727153 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream
